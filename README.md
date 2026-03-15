@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou Giovane Delfino Junior
 - 👀 Meus hobbies, são filmes, séries, cultura pop e programação para exercitar os conhecimentos.
 - 🌱 Atualmente estou estudando principalmente C#, SQL, Java, JS, CSS, Bootstrap e HTML.
-- 💞️ Estou em busca de oportunidades na área de desenvolvimento
 - 📫 Você pode me contatar por linkedin, e-mail ou telefone em:
       https://www.linkedin.com/in/giovane-delfino-junior-2b35011a3/
       giovane.delfinojunior@gmail.com
